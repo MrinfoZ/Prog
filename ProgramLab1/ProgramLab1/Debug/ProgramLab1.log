@@ -1,0 +1,5 @@
+﻿  ProgramLab1_1.cpp
+  ProgramLab1_2.cpp
+  Создание кода...
+ProgramLab1_2.obj : error LNK2005: _main уже определен в ProgramLab1_1.obj
+C:\Users\infoz\source\repos\ProgramLab1\Debug\ProgramLab1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
